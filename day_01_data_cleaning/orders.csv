@@ -1,0 +1,7 @@
+order_id,customer_name,email,order_date,product,price,quantity,total
+001,João Silva,joao.silva@email.com,2024-03-15,Mouse,49.99,2,
+002,Ana Souza,,15/03/2024,Monitor,abc,1,299.99
+003,Carlos Lima,carlos@email.com,2024/03/16,Teclado,,3,
+004,,maria@email.com,2024-03-16,Laptop,1999.90,,1999.90
+005,Pedro Rocha,pedro@email,2024-03-17,Mouse,49.99,2,99.98
+006,Fernanda Silva,fernanda@email.com,2024-03-18,Monitor,1299.99,1,1299.99
