@@ -16,7 +16,7 @@ Welcome to my daily **Data Cleaning Projects** repository! This space is dedicat
 
 ## 🛠 Tools Used
 
-- `Python 3.x`  
+- `Python`  
 - `pandas`  
 - Occasionally:
   - `re` (regex)
