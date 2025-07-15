@@ -1,0 +1,8 @@
+order_id,price,order_date,status,city_state
+12345,"R$ 199,99",01-04-2024,Em Trânsito,São Paulo - SP
+12346,USD 180.00,2024/04/02,Entregue,"Rio de Janeiro,RJ"
+12347,R$150.50,3 Abr 2024,Cancelado,Curitiba - PR
+12348,"€210,75",04.04.2024,Pendente,Salvador-BA
+12349,,2024-04-05,entregue,"Recife , PE"
+12350,R$ NaN,,Cancelado,Belo Horizonte - MG
+12351,199,06/04/24,EM TRÂNSITO,Fortaleza - CE

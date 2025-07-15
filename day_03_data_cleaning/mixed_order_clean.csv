@@ -1,0 +1,8 @@
+order_id,price,order_date,status,city_state,city,state
+12345,199.99,2024-04-01,Em Trânsito,"São Paulo , SP",São Paulo,SP
+12346,180.0,2024-02-04,Entregue,"Rio de Janeiro,RJ",Rio de Janeiro,RJ
+12347,150.5,2024-04-03,Cancelado,"Curitiba , PR",Curitiba,PR
+12348,210.75,2024-04-04,Pendente,"Salvador,BA",Salvador,BA
+12349,,2024-05-04,Entregue,"Recife , PE",Recife,PE
+12350,,,Cancelado,"Belo Horizonte , MG",Belo Horizonte,MG
+12351,199.0,2024-04-06,Em Trânsito,"Fortaleza , CE",Fortaleza,CE
